@@ -1,0 +1,25 @@
+{
+  "name": "megamall",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "class-variance-authority": "^0.6.1",
+    "clsx": "^1.2.1",
+    "lucide-react": "^0.259.0",
+    "next": "^13.2.0",
+    "tailwind-merge": "^1.13.2",
+    "tailwindcss-animate": "^1.0.6"
+  },
+  "devDependencies": {
+    "@types/node": "20.4.1",
+    "@types/react": "18.2.14",
+    "typescript": "5.1.6"
+  }
+}
